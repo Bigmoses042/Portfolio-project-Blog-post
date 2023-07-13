@@ -31,7 +31,8 @@ nav {
 .wrapper span{
     font-weight: 900;
     font-size: larger;
-    padding: 15px;
+    padding-right: 15px;
+    color: blue;
 }
 .wrapper button {
     padding: 5px;
